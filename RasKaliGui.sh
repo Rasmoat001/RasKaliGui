@@ -2,1095 +2,1093 @@
 echo "Welcome To Kali Gui Installer"
 echo "=======____Coded by Rasmoat____======="
 color 0C
-echo.
+echo .
 echo "---------------------------------------------------------------"
 echo "=======____T.me/Rasmaster____======="
 :1
 cls
-echo.
+echo .
 echo "Telegeram @Rasmoat Twitter @Rasmoat97"           
 @color f9
 echo "facebook https://www.facebook.com/Rasmoat.yaya"
-echo ------------------------------------------------------------------------------------------------
+echo "------------------------------------------------------------------------------------------------"
 echo Thanks For Your Showing Love @Rasmoat
-echo.
-echo ---------------------------------------------------------------------------------------
+echo .
+echo "------------------------------------------------------------------------------------------------"
 echo                                Rasmoat                     Rasmoat
-echo.
-echo.
-echo.
-echo.
-echo.
-echo.
-echo.
-echo.
-echo.
+echo .
+echo .
+echo .
+echo .
+echo .
+echo .
+echo .
+echo .
+echo .
+echo "------------------------------------------------------------------------------------------------"
+cls
+echo "------------------------------------------------------------------------------------------------"
+echo .           
+echo"                                Rasmoat                    Rasmoat"
+echo .
+echo .
+echo .
+echo .
+echo .
+echo .
+echo .
+echo .
 echo -----------------------------------------------------------------------------------------
 ping localhost -n 1 >nul
 cls
 echo -----------------------------------------------------------------------------------------
-echo.           
-echo                                Rasmoat                    Rasmoat
-echo.
-echo.
-echo.
-echo.
-echo.
-echo.
-echo.
-echo.
-echo -----------------------------------------------------------------------------------------
-ping localhost -n 1 >nul
-cls
-echo -----------------------------------------------------------------------------------------
-echo.           
-echo.          
+echo .           
+echo .          
 echo                                Rasmoat                     Rasmoat
-echo.
-echo.
-echo.
-echo.
-echo.
-echo.
-echo.
+echo .
+echo .
+echo .
+echo .
+echo .
+echo .
+echo .
 echo -----------------------------------------------------------------------------------------
 ping localhost -n 1 >nul
 cls
 color 0A
 echo -----------------------------------------------------------------------------------------
-echo.           
-echo.          
-echo.           
+echo .           
+echo .          
+echo .           
 echo                                Rasmoat                     Rasmoat
-echo.
-echo.
-echo.
-echo.
-echo.
-echo.
+echo .
+echo .
+echo .
+echo .
+echo .
+echo .
 echo -----------------------------------------------------------------------------------------
 ping localhost -n 1 >nul
 cls
 echo -----------------------------------------------------------------------------------------
-echo.           
-echo.          
-echo.           
-echo.           
+echo .           
+echo .          
+echo .           
+echo .           
 echo                                Rasmoat                     Rasmoat
-echo.
-echo.
-echo.
-echo.
-echo.
+echo .
+echo .
+echo .
+echo .
+echo .
 echo -----------------------------------------------------------------------------------------
 ping localhost -n 1 >nul
 cls
 echo -----------------------------------------------------------------------------------------
-echo.           
-echo.          
-echo.           
-echo.           
-echo.           
+echo .           
+echo .          
+echo .           
+echo .           
+echo .           
 echo                                Rasmoat                     Rasmoat
-echo.
-echo.
-echo.
-echo.
+echo .
+echo .
+echo .
+echo .
 echo -----------------------------------------------------------------------------------------
 ping localhost -n 1 >nul
 cls
 echo -----------------------------------------------------------------------------------------
-echo.           
-echo.          
-echo.           
-echo.           
-echo.           
-echo.       
+echo .           
+echo .          
+echo .           
+echo .           
+echo .           
+echo .       
 echo                                Rasmoat                     Rasmoat
-echo.
-echo.
-echo.
+echo .
+echo .
+echo .
 echo ------------------------------------------------------------------------------------------
 ping localhost -n 1 >nul
 cls
 color 06
 echo ------------------------------------------------------------------------------------------
-echo.           
-echo.          
-echo.           
-echo.           
-echo.           
-echo.       
-echo.           
-echo                                Rasmoat                    Rasmoat
-echo.
-echo.
+echo .           
+echo .          
+echo .           
+echo .           
+echo .           
+echo .       
+echo .           
+echo"                                Rasmoat                    Rasmoat"
+echo .
+echo .
 echo -------------------------------------------------------------------------------------------
 ping localhost -n 1 >nul
 cls
 echo -------------------------------------------------------------------------------------------
-echo.           
-echo.          
-echo.           
-echo.           
-echo.           
-echo.       
-echo.           
-echo.           
+echo .           
+echo .          
+echo .           
+echo .           
+echo .           
+echo .           
+echo .           
 echo                                Rasmoat                                          Rasmoat
-echo.
+echo .
 echo --------------------------------------------------------------------------------------------
 ping localhost -n 1 >nul
 cls
 echo ---------------------------------------------------------------------------------------------
-echo.           
-echo.          
-echo.           
-echo.           
-echo.           
-echo.       
-echo.           
-echo.           
-echo.           
+echo .           
+echo .          
+echo .           
+echo .           
+echo .           
+echo .       
+echo .           
+echo .           
+echo .           
 echo           
 echo ----------------------------------------------------------------------------------------------
 ping localhost -n 1 >nul
 cls
 echo ----------------------------------------------------------------------------------------------
-echo.           
-echo.          
-echo.           
-echo.           
-echo.           
-echo.       
-echo.           
-echo.           
+echo .           
+echo .          
+echo .           
+echo .           
+echo .           
+echo .       
+echo .           
+echo .           
 echo                                Rasmoat                                          Rasmoat         
-echo.
+echo .
 echo ----------------------------------------------------------------------------------------------
 ping localhost -n 1 >nul
 cls
 color 0E
 echo ----------------------------------------------------------------------------------------------
-echo.           
-echo.          
-echo.           
-echo.           
-echo.           
-echo.       
-echo.           
+echo .           
+echo .          
+echo .           
+echo .           
+echo .           
+echo .       
+echo .           
 echo                                Rasmoat                     Rasmoat                                                      
-echo.        
-echo.
+echo .        
+echo .
 echo ----------------------------------------------------------------------------------------------
 ping localhost -n 1 >nul
 cls
 echo ----------------------------------------------------------------------------------------------
-echo.           
-echo.          
-echo.           
-echo.           
-echo.           
-echo.       
+echo .           
+echo .          
+echo .           
+echo .           
+echo .           
+echo .       
 echo                                Rasmoat                     Rasmoat           
-echo.          
-echo.        
-echo.
+echo .          
+echo .        
+echo .
 echo -------------------
 ping localhost -n 1 >nul
 cls
 echo ----------------------------------------------------------------------------------------------
-echo.           
-echo.          
-echo.           
-echo.           
-echo.           
+echo .           
+echo .          
+echo .           
+echo .           
+echo .           
 echo                                Rasmoat                     Rasmoat     
-echo.                    
-echo.          
-echo.        
-echo.
+echo .                    
+echo .          
+echo .        
+echo .
 echo ----------------------------------------------------------------------------------------------
 ping localhost -n 1 >nul
 cls
 echo ----------------------------------------------------------------------------------------------
-echo.           
-echo.          
-echo.           
-echo.           
+echo .           
+echo .          
+echo .           
+echo .           
 echo                                Rasmoat                     Rasmoat           
-echo.       
-echo.                    
-echo.          
-echo.        
-echo.
+echo .       
+echo .                    
+echo .          
+echo .        
+echo .
 echo ----------------------------------------------------------------------------------------------
 ping localhost -n 1 >nul
 cls
 echo ----------------------------------------------------------------------------------------------
-echo.           
-echo.          
-echo.           
+echo .           
+echo .          
+echo .           
 echo                                Rasmoat                     Rasmoat           
-echo.         
-echo.    
-echo.                    
-echo.          
-echo.        
-echo.
+echo .         
+echo .    
+echo .                    
+echo .          
+echo .        
+echo .
 echo ----------------------------------------------------------------------------------------------
 ping localhost -n 1 >nul
 cls
 color 0B
 echo ----------------------------------------------------------------------------------------------
-echo.           
-echo.          
+echo .           
+echo .          
 echo                                Rasmoat                     Rasmoat           
-echo.           
-echo.         
-echo.    
-echo.                    
-echo.          
-echo.        
-echo.
+echo .           
+echo .         
+echo .    
+echo .                    
+echo .          
+echo .        
+echo .
 echo ----------------------------------------------------------------------------------------------
 ping localhost -n 1 >nul
 cls
 echo ----------------------------------------------------------------------------------------------
-echo.           
+echo .           
 echo                                Rasmoat                     Rasmoat          
-echo.         
-echo.           
-echo.         
-echo.    
-echo.                    
-echo.          
-echo.        
-echo.
+echo .         
+echo .           
+echo .         
+echo .    
+echo .                    
+echo .          
+echo .        
+echo .
 echo ----------------------------------------------------------------------------------------------
 ping localhost -n 1 >nul
 cls
 echo ----------------------------------------------------------------------------------------------
 echo                                Rasmoat                     Rasmoat
-echo.
-echo.
-echo.
-echo.
-echo.
-echo.
-echo.
-echo.
-echo.
+echo .
+echo .
+echo .
+echo .
+echo .
+echo .
+echo .
+echo .
+echo .
 echo ----------------------------------------------------------------------------------------------
 ping localhost -n 1 >nul
 cls
 echo ----------------------------------------------------------------------------------------------
-echo.           
+echo .           
 echo                                Rasmoat                     Rasmoat
-echo.
-echo.
-echo.
-echo.
-echo.
-echo.
-echo.
-echo.
+echo .
+echo .
+echo .
+echo .
+echo .
+echo .
+echo .
+echo .
 echo ----------------------------------------------------------------------------------------------
 ping localhost -n 1 >nul
 cls
 echo ----------------------------------------------------------------------------------------------
-echo.           
-echo.          
+echo .           
+echo .          
 echo                                Rasmoat                     Rasmoat
-echo.
-echo.
-echo.
-echo.
-echo.
-echo.
-echo.
+echo .
+echo .
+echo .
+echo .
+echo .
+echo .
+echo .
 echo ----------------------------------------------------------------------------------------------
 ping localhost -n 1 >nul
 cls
 echo ----------------------------------------------------------------------------------------------
-echo.           
-echo.          
-echo.           
+echo .           
+echo .          
+echo .           
 echo                                Rasmoat                     Rasmoat
-echo.
-echo.
-echo.
-echo.
-echo.
-echo.
+echo .
+echo .
+echo .
+echo .
+echo .
+echo .
 echo ----------------------------------------------------------------------------------------------
 ping localhost -n 1 >nul
 cls
 echo ----------------------------------------------------------------------------------------------
-echo.           
-echo.          
-echo.           
-echo.           
+echo .           
+echo .          
+echo .           
+echo .           
 echo                                Rasmoat                     Rasmoat
-echo.
-echo.
-echo.
-echo.
-echo.
+echo .
+echo .
+echo .
+echo .
+echo .
 echo ----------------------------------------------------------------------------------------------
 ping localhost -n 1 >nul
 cls
 color 03
 echo ----------------------------------------------------------------------------------------------
-echo.           
-echo.          
-echo.           
-echo.           
-echo.           
+echo .           
+echo .          
+echo .           
+echo .           
+echo .           
 echo                                Rasmoat                     Rasmoat
-echo.
-echo.
-echo.
-echo.
+echo .
+echo .
+echo .
+echo .
 echo ----------------------------------------------------------------------------------------------
 ping localhost -n 1 >nul
 cls
 echo ----------------------------------------------------------------------------------------------
-echo.           
-echo.          
-echo.           
-echo.           
-echo.           
-echo.       
+echo .           
+echo .          
+echo .           
+echo .           
+echo .           
+echo .       
 echo                                Rasmoat                     Rasmoat
-echo.
-echo.
-echo.
+echo .
+echo .
+echo .
 echo ----------------------------------------------------------------------------------------------
 ping localhost -n 1 >nul
 cls
 echo ----------------------------------------------------------------------------------------------
-echo.           
-echo.          
-echo.           
-echo.           
-echo.           
-echo.       
-echo.           
+echo .           
+echo .          
+echo .           
+echo .           
+echo .           
+echo .       
+echo .           
 echo                                Rasmoat                     Rasmoat
-echo.
-echo.
+echo .
+echo .
 echo ----------------------------------------------------------------------------------------------
 ping localhost -n 1 >nul
 cls
 echo ----------------------------------------------------------------------------------------------
-echo.           
-echo.          
-echo.           
-echo.           
-echo.           
-echo.       
-echo.           
-echo.           
+echo .           
+echo .          
+echo .           
+echo .           
+echo .           
+echo .       
+echo .           
+echo .           
 echo                                Rasmoat                     Rasmoat
-echo.
+echo .
 echo ----------------------------------------------------------------------------------------------
 ping localhost -n 1 >nul
 cls
 echo ----------------------------------------------------------------------------------------------
-echo.           
-echo.          
-echo.           
-echo.           
-echo.           
-echo.       
-echo.           
-echo.           
-echo.           
+echo .           
+echo .          
+echo .           
+echo .           
+echo .           
+echo .       
+echo .           
+echo .           
+echo .           
 echo           _
 echo ----------------------------------------------------------------------------------------------
 ping localhost -n 1 >nul
 cls
 echo ----------------------------------------------------------------------------------------------
-echo.           
-echo.          
-echo.           
-echo.           
-echo.           
-echo.       
-echo.           
-echo.           
+echo .           
+echo .          
+echo .           
+echo .           
+echo .           
+echo .       
+echo .           
+echo .           
 echo                                Rasmoat                     Rasmoat         
-echo.
+echo .
 echo ----------------------------------------------------------------------------------------------
 ping localhost -n 1 >nul
 cls
 echo ----------------------------------------------------------------------------------------------
-echo.           
-echo.          
-echo.           
-echo.           
-echo.           
-echo.       
-echo.           
+echo .           
+echo .          
+echo .           
+echo .           
+echo .           
+echo .       
+echo .           
 echo                                Rasmoat                     Rasmoat           
-echo.        
-echo.
+echo .        
+echo .
 echo ----------------------------------------------------------------------------------------------
 ping localhost -n 1 >nul
 cls
 echo ----------------------------------------------------------------------------------------------
-echo.           
-echo.          
-echo.           
-echo.           
-echo.           
-echo.       
+echo .           
+echo .          
+echo .           
+echo .           
+echo .           
+echo .       
 echo                                Rasmoat                     Rasmoat           
-echo.          
-echo.        
-echo.
+echo .          
+echo .        
+echo .
 echo ----------------------------------------------------------------------------------------------
 ping localhost -n 1 >nul
 cls
 echo ----------------------------------------------------------------------------------------------
-echo.           
-echo.          
-echo.           
-echo.           
-echo.           
+echo .           
+echo .          
+echo .           
+echo .           
+echo .           
 echo                                Rasmoat                     Rasmoat       
-echo.                    
-echo.          
-echo.        
-echo.
+echo .                    
+echo .          
+echo .        
+echo .
 echo ----------------------------------------------------------------------------------------------
 ping localhost -n 1 >nul
 cls
 echo ----------------------------------------------------------------------------------------------
-echo.           
-echo.          
-echo.           
-echo.           
+echo .           
+echo .          
+echo .           
+echo .           
 echo                                Rasmoat                     Rasmoat           
-echo.       
-echo.                    
-echo.          
-echo.        
-echo.
+echo .       
+echo .                    
+echo .          
+echo .        
+echo .
 echo ----------------------------------------------------------------------------------------------
 ping localhost -n 1 >nul
 cls
 echo ----------------------------------------------------------------------------------------------
-echo.           
-echo.          
-echo.           
+echo .           
+echo .          
+echo .           
 echo                                Rasmoat                     Rasmoat           
-echo.         
-echo.    
-echo.                    
-echo.          
-echo.        
-echo.
+echo .         
+echo .    
+echo .                    
+echo .          
+echo .        
+echo .
 echo ----------------------------------------------------------------------------------------------
 ping localhost -n 1 >nul
 cls
 echo ----------------------------------------------------------------------------------------------
-echo.           
-echo.          
+echo .           
+echo .          
 echo                                Rasmoat                     Rasmoat           
-echo.           
-echo.         
-echo.    
-echo.                    
-echo.          
-echo.        
-echo.
+echo .           
+echo .         
+echo .    
+echo .                    
+echo .          
+echo .        
+echo .
 echo ----------------------------------------------------------------------------------------------
 ping localhost -n 1 >nul
 cls
 echo ----------------------------------------------------------------------------------------------
-echo.           
+echo .           
 echo                                Rasmoat                     Rasmoat          
-echo.         
-echo.           
-echo.         
-echo.    
-echo.                    
-echo.          
-echo.        
-echo.
+echo .         
+echo .           
+echo .         
+echo .    
+echo .                    
+echo .          
+echo .        
+echo .
 echo ----------------------------------------------------------------------------------------------
 ping localhost -n 1 >nul
 cls
 echo ----------------------------------------------------------------------------------------------
 echo                                Rasmoat                     Rasmoat           
-echo.        
-echo.         
-echo.           
-echo.         
-echo.    
-echo.                    
-echo.          
-echo.        
-echo.
+echo .        
+echo .         
+echo .           
+echo .         
+echo .    
+echo .                    
+echo .          
+echo .        
+echo .
 echo ----------------------------------------------------------------------------------------------
 ping localhost -n 1 >nul
 cls
 echo ----------------------------------------------------------------------------------------------
 echo                                Rasmoat                     Rasmoat
-echo.
-echo.
-echo.
-echo.
-echo.
-echo.
-echo.
-echo.
-echo.
+echo .
+echo .
+echo .
+echo .
+echo .
+echo .
+echo .
+echo .
+echo .
 echo ----------------------------------------------------------------------------------------------
 ping localhost -n 1 >nul
 cls
 color 0A
 echo ----------------------------------------------------------------------------------------------
-echo.           
+echo .           
 echo                                Rasmoat                     Rasmoat
-echo.
-echo.
-echo.
-echo.
-echo.
-echo.
-echo.
-echo.
+echo .
+echo .
+echo .
+echo .
+echo .
+echo .
+echo .
+echo .
 echo ----------------------------------------------------------------------------------------------
 ping localhost -n 1 >nul
 cls
 echo ----------------------------------------------------------------------------------------------
-echo.           
-echo.          
+echo .           
+echo .          
 echo                                Rasmoat                     Rasmoat
-echo.
-echo.
-echo.
-echo.
-echo.
-echo.
-echo.
+echo .
+echo .
+echo .
+echo .
+echo .
+echo .
+echo .
 echo ----------------------------------------------------------------------------------------------
 ping localhost -n 1 >nul
 cls
 echo ----------------------------------------------------------------------------------------------
-echo.           
-echo.          
-echo.           
+echo .           
+echo .          
+echo .           
 echo                                Rasmoat                     Rasmoat
-echo.
-echo.
-echo.
-echo.
-echo.
-echo.
+echo .
+echo .
+echo .
+echo .
+echo .
+echo .
 echo ----------------------------------------------------------------------------------------------
 ping localhost -n 1 >nul
 cls
 echo ----------------------------------------------------------------------------------------------
-echo.           
-echo.          
-echo.           
-echo.           
+echo .           
+echo .          
+echo .           
+echo .           
 echo                                Rasmoat                     Rasmoat
-echo.
-echo.
-echo.
-echo.
-echo.
+echo .
+echo .
+echo .
+echo .
+echo .
 echo ----------------------------------------------------------------------------------------------
 ping localhost -n 1 >nul
 cls
 echo ----------------------------------------------------------------------------------------------
-echo.           
-echo.          
-echo.           
-echo.           
-echo.           
+echo .           
+echo .          
+echo .           
+echo .           
+echo .           
 echo                                Rasmoat                     Rasmoat
-echo.
-echo.
-echo.
-echo.
+echo .
+echo .
+echo .
+echo .
 echo ----------------------------------------------------------------------------------------------
 ping localhost -n 1 >nul
 cls
 echo ----------------------------------------------------------------------------------------------
-echo.           
-echo.          
-echo.           
-echo.           
-echo.           
-echo.       
+echo .           
+echo .          
+echo .           
+echo .           
+echo .           
+echo .       
 echo                                Rasmoat                     Rasmoat
-echo.
-echo.
-echo.
+echo .
+echo .
+echo .
 echo ----------------------------------------------------------------------------------------------
 ping localhost -n 1 >nul
 cls
 echo ----------------------------------------------------------------------------------------------
-echo.           
-echo.          
-echo.           
-echo.           
-echo.           
-echo.       
-echo.           
+echo .           
+echo .          
+echo .           
+echo .           
+echo .           
+echo .       
+echo .           
 echo                                Rasmoat                     Rasmoat
-echo.
-echo.
+echo .
+echo .
 echo ----------------------------------------------------------------------------------------------
 ping localhost -n 1 >nul
 cls
 echo ----------------------------------------------------------------------------------------------
-echo.           
-echo.          
-echo.           
-echo.           
-echo.           
-echo.       
-echo.           
-echo.           
+echo .           
+echo .          
+echo .           
+echo .           
+echo .           
+echo .       
+echo .           
+echo .           
 echo                                Rasmoat                     Rasmoat
-echo.
+echo .
 echo ----------------------------------------------------------------------------------------------
 ping localhost -n 1 >nul
 cls
 echo ----------------------------------------------------------------------------------------------
-echo.           
-echo.          
-echo.           
-echo.           
-echo.           
-echo.       
-echo.           
-echo.           
-echo.           
+echo .           
+echo .          
+echo .           
+echo .           
+echo .           
+echo .       
+echo .           
+echo .           
+echo .           
 echo           _
 echo ----------------------------------------------------------------------------------------------
 ping localhost -n 1 >nul
 cls
 echo ----------------------------------------------------------------------------------------------
-echo.           
-echo.          
-echo.           
-echo.           
-echo.           
-echo.       
-echo.           
-echo.           
+echo .           
+echo .          
+echo .           
+echo .           
+echo .           
+echo .       
+echo .           
+echo .           
 echo                                Rasmoat                     Rasmoat         
-echo.
+echo .
 echo ----------------------------------------------------------------------------------------------
 ping localhost -n 1 >nul
 cls
 echo ----------------------------------------------------------------------------------------------
-echo.           
-echo.          
-echo.           
-echo.           
-echo.           
-echo.       
-echo.           
+echo .           
+echo .          
+echo .           
+echo .           
+echo .           
+echo .       
+echo .           
 echo                                Rasmoat                     Rasmoat           
-echo.        
-echo.
+echo .        
+echo .
 echo ----------------------------------------------------------------------------------------------
 ping localhost -n 1 >nul
 cls
 echo ----------------------------------------------------------------------------------------------
-echo.           
-echo.          
-echo.           
-echo.           
-echo.           
-echo.       
+echo .           
+echo .          
+echo .           
+echo .           
+echo .           
+echo .       
 echo                                Rasmoat                     Rasmoat           
-echo.          
-echo.        
-echo.
+echo .          
+echo .        
+echo .
 echo ----------------------------------------------------------------------------------------------
 ping localhost -n 1 >nul
 cls
 echo ----------------------------------------------------------------------------------------------
-echo.           
-echo.          
-echo.           
-echo.           
-echo.           
+echo .           
+echo .          
+echo .           
+echo .           
+echo .           
 echo                                Rasmoat                     Rasmoat       
-echo.                    
-echo.          
-echo.        
-echo.
+echo .                    
+echo .          
+echo .        
+echo .
 echo ----------------------------------------------------------------------------------------------
 ping localhost -n 1 >nul
 cls
 echo ----------------------------------------------------------------------------------------------
-echo.           
-echo.          
-echo.           
-echo.           
+echo .           
+echo .          
+echo .           
+echo .           
 echo                                Rasmoat                     Rasmoat           
-echo.       
-echo.                    
-echo.          
-echo.        
-echo.
+echo .       
+echo .                    
+echo .          
+echo .        
+echo .
 echo ----------------------------------------------------------------------------------------------
 ping localhost -n 1 >nul
 cls
 echo ----------------------------------------------------------------------------------------------
-echo.           
-echo.          
-echo.           
-echo.           
+echo .           
+echo .          
+echo .           
+echo .           
 echo                                Rasmoat                     Rasmoat          
-echo.    
-echo.                    
-echo.          
-echo.        
-echo.
+echo .    
+echo .                    
+echo .          
+echo .        
+echo .
 echo ----------------------------------------------------------------------------------------------
 ping localhost -n 1 >nul
 cls
 echo ----------------------------------------------------------------------------------------------
-echo.           
-echo.          
-echo.           
+echo .           
+echo .          
+echo .           
 echo                                Rasmoat                     Rasmoat           
-echo.         
-echo.    
-echo.                    
-echo.          
-echo.        
-echo.
+echo .         
+echo .    
+echo .                    
+echo .          
+echo .        
+echo .
 echo ----------------------------------------------------------------------------------------------
 ping localhost -n 1 >nul
 cls
 echo ----------------------------------------------------------------------------------------------
-echo.           
-echo.          
+echo .           
+echo .          
 echo                                Rasmoat                     Rasmoat           
-echo.           
-echo.         
-echo.    
-echo.                    
-echo.          
-echo.        
-echo.
+echo .           
+echo .         
+echo .    
+echo .                    
+echo .          
+echo .        
+echo .
 echo ----------------------------------------------------------------------------------------------
 ping localhost -n 1 >nul
 cls
 echo ----------------------------------------------------------------------------------------------
-echo.           
+echo .           
 echo                                Rasmoat                     Rasmoat          
-echo.         
-echo.           
-echo.         
-echo.    
-echo.                    
-echo.          
-echo.        
-echo.
+echo .         
+echo .           
+echo .         
+echo .    
+echo .                    
+echo .          
+echo .        
+echo .
 echo ----------------------------------------------------------------------------------------------
 ping localhost -n 1 >nul
 cls
 echo ----------------------------------------------------------------------------------------------
 echo                                Rasmoat                     Rasmoat
-echo.
-echo.
-echo.
-echo.
-echo.
-echo.
-echo.
-echo.
-echo.
+echo .
+echo .
+echo .
+echo .
+echo .
+echo .
+echo .
+echo .
+echo .
 echo ----------------------------------------------------------------------------------------------
 ping localhost -n 1 >nul
 cls
 echo ----------------------------------------------------------------------------------------------
-echo.           
+echo .           
 echo                                Rasmoat                     Rasmoat
-echo.
-echo.
-echo.
-echo.
-echo.
-echo.
-echo.
-echo.
+echo .
+echo .
+echo .
+echo .
+echo .
+echo .
+echo .
+echo .
 echo ----------------------------------------------------------------------------------------------
 ping localhost -n 1 >nul
 cls
 echo ----------------------------------------------------------------------------------------------
-echo.           
-echo.          
+echo .           
+echo .          
 echo                                Rasmoat                     Rasmoat
-echo.
-echo.
-echo.
-echo.
-echo.
-echo.
-echo.
+echo .
+echo .
+echo .
+echo .
+echo .
+echo .
+echo .
 echo ----------------------------------------------------------------------------------------------
 ping localhost -n 1 >nul
 cls
 echo ----------------------------------------------------------------------------------------------
-echo.           
-echo.          
-echo.           
+echo .           
+echo .          
+echo .           
 echo                                Rasmoat                     Rasmoat
-echo.
-echo.
-echo.
-echo.
-echo.
-echo.
+echo .
+echo .
+echo .
+echo .
+echo .
+echo .
 echo ----------------------------------------------------------------------------------------------
 ping localhost -n 1 >nul
 cls
 colors 09
 echo ----------------------------------------------------------------------------------------------
-echo.           
-echo.          
-echo.           
-echo.           
+echo .           
+echo .          
+echo .           
+echo .           
 echo                                Rasmoat                     Rasmoat
-echo.
-echo.
-echo.
-echo.
-echo.
+echo .
+echo .
+echo .
+echo .
+echo .
 echo ----------------------------------------------------------------------------------------------
 ping localhost -n 1 >nul
 cls
 echo ----------------------------------------------------------------------------------------------
-echo.           
-echo.          
-echo.           
-echo.           
-echo.           
+echo .           
+echo .          
+echo .           
+echo .           
+echo .           
 echo                                Rasmoat                     Rasmoat
-echo.
-echo.
-echo.
-echo.
+echo .
+echo .
+echo .
+echo .
 echo ----------------------------------------------------------------------------------------------
 ping localhost -n 1 >nul
 cls
 echo ----------------------------------------------------------------------------------------------
-echo.           
-echo.          
-echo.           
-echo.           
-echo.           
-echo.       
+echo .           
+echo .          
+echo .           
+echo .           
+echo .           
+echo .       
 echo                                Rasmoat                     Rasmoat
-echo.
-echo.
-echo.
+echo .
+echo .
+echo .
 echo ----------------------------------------------------------------------------------------------
 ping localhost -n 1 >nul
 cls
 echo ----------------------------------------------------------------------------------------------
-echo.           
-echo.          
-echo.           
-echo.           
-echo.           
-echo.       
-echo.           
+echo .           
+echo .          
+echo .           
+echo .           
+echo .           
+echo .       
+echo .           
 echo                                Rasmoat                     Rasmoat
-echo.
-echo.
+echo .
+echo .
 echo ----------------------------------------------------------------------------------------------
 ping localhost -n 1 >nul
 cls
 echo ----------------------------------------------------------------------------------------------
-echo.           
-echo.          
-echo.           
-echo.           
-echo.           
-echo.       
-echo.           
-echo.           
+echo .           
+echo .          
+echo .           
+echo .           
+echo .           
+echo .       
+echo .           
+echo .           
 echo                                Rasmoat                     Rasmoat
-echo.
+echo .
 echo ----------------------------------------------------------------------------------------------
 ping localhost -n 1 >nul
 cls
 echo ----------------------------------------------------------------------------------------------
-echo.           
-echo.          
-echo.           
-echo.           
-echo.           
-echo.       
-echo.           
-echo.           
-echo.           
+echo .           
+echo .          
+echo .           
+echo .           
+echo .           
+echo .       
+echo .           
+echo .           
+echo .           
 echo           _
 echo ----------------------------------------------------------------------------------------------
 ping localhost -n 1 >nul
 cls
 echo ----------------------------------------------------------------------------------------------
-echo.           
-echo.          
-echo.           
-echo.           
-echo.           
-echo.       
-echo.           
-echo.           
+echo .           
+echo .          
+echo .           
+echo .           
+echo .           
+echo .       
+echo .           
+echo .           
 echo                                Rasmoat                     Rasmoat         
-echo.
+echo .
 echo ----------------------------------------------------------------------------------------------
 ping localhost -n 1 >nul
 cls
 echo ----------------------------------------------------------------------------------------------
-echo.           
-echo.          
-echo.           
-echo.           
-echo.           
-echo.       
-echo.           
+echo .           
+echo .          
+echo .           
+echo .           
+echo .           
+echo .       
+echo .           
 echo                                Rasmoat                     Rasmoat           
-echo.        
-echo.
+echo .        
+echo .
 echo ----------------------------------------------------------------------------------------------
 ping localhost -n 1 >nul
 cls
 color 07
 echo ----------------------------------------------------------------------------------------------
-echo.           
-echo.          
-echo.           
-echo.           
-echo.           
-echo.       
+echo .           
+echo .          
+echo .           
+echo .           
+echo .           
+echo .       
 echo                                Rasmoat                     Rasmoat           
-echo.          
-echo.        
-echo.
+echo .          
+echo .        
+echo .
 echo ----------------------------------------------------------------------------------------------
 ping localhost -n 1 >nul
 cls
 echo ----------------------------------------------------------------------------------------------
-echo.           
-echo.          
-echo.           
-echo.           
-echo.           
+echo .           
+echo .          
+echo .           
+echo .           
+echo .           
 echo                                Rasmoat                     Rasmoat       
-echo.                    
-echo.          
-echo.        
-echo.
+echo .                    
+echo .          
+echo .        
+echo .
 echo ----------------------------------------------------------------------------------------------
 ping localhost -n 1 >nul
 cls
 echo ----------------------------------------------------------------------------------------------
-echo.           
-echo.          
-echo.           
-echo.           
+echo .           
+echo .          
+echo .           
+echo .           
 echo                                Rasmoat                     Rasmoat           
-echo.       
-echo.                    
-echo.          
-echo.        
-echo.
+echo .       
+echo .                    
+echo .          
+echo .        
+echo .
 echo ----------------------------------------------------------------------------------------------
 ping localhost -n 1 >nul
 cls
 echo ----------------------------------------------------------------------------------------------
-echo.           
-echo.          
-echo.           
-echo.           
+echo .           
+echo .          
+echo .           
+echo .           
 echo                                Rasmoat                     Rasmoat          
-echo.    
-echo.                    
-echo.          
-echo.        
-echo.
+echo .    
+echo .                    
+echo .          
+echo .        
+echo .
 echo ----------------------------------------------------------------------------------------------
 ping localhost -n 1 >nul
 cls
 echo ----------------------------------------------------------------------------------------------
-echo.           
-echo.          
-echo.           
+echo .           
+echo .          
+echo .           
 echo                                Rasmoat                     Rasmoat           
-echo.         
-echo.    
-echo.                    
-echo.          
-echo.        
-echo.
+echo .         
+echo .    
+echo .                    
+echo .          
+echo .        
+echo .
 echo ----------------------------------------------------------------------------------------------
 ping localhost -n 1 >nul
 cls
 echo ----------------------------------------------------------------------------------------------
-echo.           
-echo.          
+echo .           
+echo .          
 echo                                Rasmoat                     Rasmoat           
-echo.           
-echo.         
-echo.    
-echo.                    
-echo.          
-echo.        
-echo.
+echo .           
+echo .         
+echo .    
+echo .                    
+echo .          
+echo .        
+echo .
 echo ----------------------------------------------------------------------------------------------
 ping localhost -n 1 >nul
 cls
 echo ----------------------------------------------------------------------------------------------
-echo.           
+echo .           
 echo                                Rasmoat                     Rasmoat          
-echo.         
-echo.           
-echo.         
-echo.    
-echo.                    
-echo.          
-echo.        
-echo.
+echo .         
+echo .           
+echo .         
+echo .    
+echo .                    
+echo .          
+echo .        
+echo .
 echo ----------------------------------------------------------------------------------------------
 ping localhost -n 1 >nul
 cls
 echo ----------------------------------------------------------------------------------------------
 echo                                Rasmoat                     Rasmoat           
-echo.        
-echo.         
-echo.           
-echo.         
-echo.    
-echo.                    
-echo.          
-echo.        
-echo.
+echo .        
+echo .         
+echo .           
+echo .         
+echo .    
+echo .                    
+echo .          
+echo .        
+echo .
 echo --------------------------------------------------------------------------------------------------
 ping localhost -n 1 >nul
 cls
-echo.
+echo .
 echo --------------------------------------------------------------------------------------------------
 echo @Rasmaster
 echo --------------------------------------------------------------------------------------------------
-echo.
+echo .
 echo --------------------------------------------------------------------------------------------------
 echo =======================
 echo --------------------------------------------------------------------------------------------------
@@ -1104,9 +1102,9 @@ echo "4.Lxde Desktop Gui"
 echo "Please Choose the Gui you want to install!"
 
 echo ----------------------------------------------------------------
-echo.
+echo .
 echo Made By: Me :Rasmoat
-echo.
+echo .
 set /p input= Type Number -
 if %input%==1 goto Xfce
 if %input%==2 goto Gnome
