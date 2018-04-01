@@ -37,18 +37,25 @@ echo "Type Number -:"
 read input
 if [ $input == 1 ]; then
 goto  A
+fi
 elif [ $input == 2 ]; then
 goto  B
+fi
 elif [ $input == 3 ]; then
 goto C
+fi
 elif [ $input == 4 ]; then
 goto D
+fi
 elif [ $input == 5 ]; then
 goto E
+fi
 elif [ $input == 6 ]; then
 goto F
+fi
 elif [ $input == 0 ]; then
 exit 0
+fi
 else
 echo "You Have Typed A Wrong Number.!"
 fi
@@ -115,3 +122,4 @@ apt-get --yes --quiet --allow-unauthenticated install mate-archive-keyring
 apt-get --yes --force-yes install kali-defaults kali-root-login desktop-base mate-desktop-environment-extra
 echo "[+] Configuring XRDP to listen on port 3390 (but not starting the service)..."
 sed -i 's/port=3389/port=3390/g' /etc/xrdp/xrdp.ini
+fi
