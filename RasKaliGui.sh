@@ -1,7 +1,7 @@
 #!/bin/bash
-echo "                                   [------------------------------------]
-echo "                                   ```Welcome To Kali Gui Installer```"
-echo "                                   [------------------------------------]
+echo "                                   [------------------------------------]"
+echo "                                      Welcome To Kali Gui Installer"
+echo "                                   [------------------------------------]"
 echo "                                   =======____Coded by Rasmoat____======"
 echo "                                   =======____Keep_Wondering___======="
 echo "                                      Telegeram @Rasmoat Twitter @Rasmoat97"
@@ -55,9 +55,6 @@ goto F
 fi
 elif [ $input == 0 ]; then
 exit 0
-fi
-else
-echo "You Have Typed A Wrong Number.!"
 fi
 
 :A
