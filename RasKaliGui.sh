@@ -38,22 +38,22 @@ read input
 if [ $input == 1 ]; then
 goto  A
 fi
-elif [ $input == 2 ]; then
+if [ $input == 2 ]; then
 goto  B
 fi
-elif [ $input == 3 ]; then
+if [ $input == 3 ]; then
 goto C
 fi
-elif [ $input == 4 ]; then
+if [ $input == 4 ]; then
 goto D
 fi
-elif [ $input == 5 ]; then
+if [ $input == 5 ]; then
 goto E
 fi
-elif [ $input == 6 ]; then
+if [ $input == 6 ]; then
 goto F
 fi
-elif [ $input == 0 ]; then
+if [ $input == 0 ]; then
 exit 0
 fi
 
