@@ -22,6 +22,7 @@ echo "1.Xfce Desktop Gui"
 echo "2.Gnome Desktop Gui"
 echo "3.Gnome Desktop Gui"
 echo "4.Lxde Desktop Gui"
+echo "----------------------------------------------------------------"
 
 echo "Please Choose the Gui you want to install!"
 
