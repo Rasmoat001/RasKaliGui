@@ -18,10 +18,13 @@ echo =======================
 echo --------------------------------------------------------------------------------------------------
 
 echo "           Available Guis "
-echo "1.Xfce Desktop Gui"
-echo "2.Gnome Desktop Gui"
-echo "3.Gnome Desktop Gui"
-echo "4.Lxde Desktop Gui"
+echo "1. Xfce Desktop Gui"
+echo "2. Gnome Desktop Gui"
+echo "3. Gnome Desktop Gui"
+echo "4. Lxde Desktop Gui"
+echo "5. Cinnamon Desktop Gui"
+echo "6. Mate Desktop Gui"
+echo "0. Exit Installer"
 echo "----------------------------------------------------------------"
 
 echo "Please Choose the Gui you want to install!"
@@ -30,25 +33,23 @@ echo "----------------------------------------------------------------"
 echo .
 echo Made By: Me :Rasmoat
 echo .
-set /p input= Type Number -
-if [ $input == 1 ]
-then
+Type Number -:
+
+read input
+if [ $input == 1 ]; then
 goto  A
-elif [ $input == 2 ]
-then
+elif [ $input == 2 ]; then
 goto  B
-elif [ $input == 3 ]
-then
+elif [ $input == 3 ]; then
 goto C
-elif [ $input == 4 ]
-then
+elif [ $input == 4 ]; then
 goto D
-elif [ $input == 5 ]
-then
+elif [ $input == 5 ]; then
 goto E
-elif [ $input == 6 ]
-then
+elif [ $input == 6 ]; then
 goto F
+elif [ $input == 0 ]; then
+exit 0
 else
 echo "You Have Typed A Wrong Number.!"
 fi
