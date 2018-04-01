@@ -31,12 +31,28 @@ echo .
 echo Made By: Me :Rasmoat
 echo .
 set /p input= Type Number -
-if %input%==1 goto  A
-if %input%==2 goto  B
-if %input%==3 goto  C
-if %input%==4 goto  D
-if %input%==5 goto  E
-if %input%==6 goto  F
+if [ $input == 1 ]
+then
+goto  A
+elif [ $input == 2 ]
+then
+goto  B
+elif [ $input == 3 ]
+then
+goto C
+elif [ $input == 4 ]
+then
+goto D
+elif [ $input == 5 ]
+then
+goto E
+elif [ $input == 6 ]
+then
+goto F
+else
+echo "You Have Typed A Wrong Number.!"
+fi
+
 :A
 echo "[+] Installing XFCE4, this will take a while"
 apt-get --yes --force-yes install figlet
