@@ -1,23 +1,22 @@
 #!/bin/bash
-echo "Welcome To Kali Gui Installer"
-echo "=======____Coded by Rasmoat____======="
-echo "---------------------------------------------------------------"
-echo "=======____T.me/Rasmaster____======="
-echo "---------------------------------------------------------------"
-echo "Telegeram @Rasmoat Twitter @Rasmoat97"
-
-echo "facebook https://www.facebook.com/Rasmoat.yaya"
+echo "                                   [------------------------------------]
+echo "                                   ```Welcome To Kali Gui Installer```"
+echo "                                   [------------------------------------]
+echo "                                   =======____Coded by Rasmoat____======"
+echo "                                   =======____Keep_Wondering___======="
+echo "                                      Telegeram @Rasmoat Twitter @Rasmoat97"
+echo "                             =======____facebook fb.me/Rasmoat.yaya_____======="
 echo "------------------------------------------------------------------------------------------------"
-echo Thanks For Your Showing Love @Rasmoat
+echo "Thanks For Your Showing Love @Rasmoat"
 
-echo @Rasmaster
+echo "@Rasmaster"
 echo --------------------------------------------------------------------------------------------------
 echo .
 echo --------------------------------------------------------------------------------------------------
 echo =======================
 echo --------------------------------------------------------------------------------------------------
 
-echo "           Available Guis "
+echo "   Available Guis "
 echo "1. Xfce Desktop Gui"
 echo "2. Gnome Desktop Gui"
 echo "3. Gnome Desktop Gui"
@@ -33,7 +32,7 @@ echo "----------------------------------------------------------------"
 echo .
 echo Made By: Me :Rasmoat
 echo .
-Type Number -:
+echo "Type Number -:"
 
 read input
 if [ $input == 1 ]; then
