@@ -5,11 +5,10 @@ color 0C
 echo .
 echo "---------------------------------------------------------------"
 echo "=======____T.me/Rasmaster____======="
-:1
-cls
+
 echo .
 echo "Telegeram @Rasmoat Twitter @Rasmoat97"           
-@color f9
+
 echo "facebook https://www.facebook.com/Rasmoat.yaya"
 echo "------------------------------------------------------------------------------------------------"
 echo Thanks For Your Showing Love @Rasmoat
