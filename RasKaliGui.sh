@@ -1,13 +1,10 @@
 #!/bin/bash
 echo "Welcome To Kali Gui Installer"
 echo "=======____Coded by Rasmoat____======="
-color 0C
-echo .
 echo "---------------------------------------------------------------"
 echo "=======____T.me/Rasmaster____======="
-
-echo .
-echo "Telegeram @Rasmoat Twitter @Rasmoat97"           
+echo "---------------------------------------------------------------"
+echo "Telegeram @Rasmoat Twitter @Rasmoat97"
 
 echo "facebook https://www.facebook.com/Rasmoat.yaya"
 echo "------------------------------------------------------------------------------------------------"
@@ -33,15 +30,13 @@ echo .
 echo Made By: Me :Rasmoat
 echo .
 set /p input= Type Number -
-if %input%==1 goto Xfce
-if %input%==2 goto Gnome
-if %input%==3 goto Kde
-if %input%==4 goto Lxde
-if %input%==5 goto Cinnamon
-if %input%==6 goto Mate
-
-
-:Xfce
+if %input%==1 goto  A
+if %input%==2 goto  B
+if %input%==3 goto  C
+if %input%==4 goto  D
+if %input%==5 goto  E
+if %input%==6 goto  F
+:A
 echo "[+] Installing XFCE4, this will take a while"
 apt-get --yes --force-yes install figlet
 apt-get update
@@ -51,7 +46,7 @@ apt-get --yes --force-yes install kali-desktop-xfce xorg xrdp
 echo "[+] Configuring XRDP to listen on port 3390 (but not starting the service)..."
 sed -i 's/port=3389/port=3390/g' /etc/xrdp/xrdp.ini
 
-:Gnome
+:B
 echo "[+] Installing Gnome, this will take a while!"
 apt-get --yes --force-yes install figlet
 apt-get update
@@ -61,7 +56,7 @@ apt-get --yes --force-yes install kde-plasma-desktop xorg xrdp
 echo "[+] Configuring XRDP to listen on port 3390 (but not starting the service)..."
 sed -i 's/port=3389/port=3390/g' /etc/xrdp/xrdp.ini
 
-:Kde
+:C
 echo "[+] Installing Kde, this will take a while!"
 apt-get --yes --force-yes install figlet
 apt-get update
@@ -72,7 +67,7 @@ echo "[+] Configuring XRDP to listen on port 3390 (but not starting the service)
 sed -i 's/port=3389/port=3390/g' /etc/xrdp/xrdp.ini
 
 
-:Lxde
+:D
 echo "[+] Installing Lxde, this will take a while!"
 apt-get --yes --force-yes install figlet
 apt-get update
@@ -82,7 +77,7 @@ apt-get --yes --force-yes install lxde-core lxde kali-defaults kali-root-login d
 echo "[+] Configuring XRDP to listen on port 3390 (but not starting the service)..."
 sed -i 's/port=3389/port=3390/g' /etc/xrdp/xrdp.ini
 
-:Cinnamon
+:E
 echo "[+] Installing Cinnamon, this will take a while!"
 apt-get --yes --force-yes install figlet
 apt-get update
@@ -92,7 +87,7 @@ apt-get --yes --force-yes install kali-defaults kali-root-login desktop-base cin
 echo "[+] Configuring XRDP to listen on port 3390 (but not starting the service)..."
 sed -i 's/port=3389/port=3390/g' /etc/xrdp/xrdp.ini
 
-:Mate
+:F
 echo "[+] Installing Mate, this will take a while!"
 apt-get --yes --force-yes install figlet
 apt-get update
