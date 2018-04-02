@@ -87,7 +87,7 @@ os.system ("apt-get --yes --force-yes install figlet")
 os.system("apt-get update")
 os.system ("figlet Xfce Gui")
 os.system ("apt-get dist-upgrade -y --force-yes")
-apt-get --yes --force-yes install kali-desktop-xfce xorg xrdp
+os.system ("apt-get --yes --force-yes install kali-desktop-xfce xorg xrdp")
 print "[+] Configuring XRDP to listen on port 3390 (but not starting the service)..."
 sed -i 's/port=3389/port=3390/g' /etc/xrdp/xrdp.ini
 
