@@ -60,8 +60,8 @@ print ""
 print "Made By::Rasmoat"
 print ""
 
-input = raw_input("Type Number :-: ")
-clearScr()
+choice = raw_input("Type Number :-: ")
+
 if choice == "1":
     Xfce()
 elif choice == "2":
@@ -78,8 +78,8 @@ elif choice == "0":
     print "Good Bye :("
     sys.exit()
 else:
-            print "You have Entered an Incorrect Number,Please Select A Good Choice!"
-
+    print "You have Entered an Incorrect Number,Please Select A Good Choice!"
+    sys.exit()
 def Xfce():
     print""
 print "[+] Installing XFCE4, this will take a while"
@@ -143,7 +143,8 @@ os.system ("apt-get --yes --force-yes install figlet")
 os.system("apt-get update")
 os.system ("figlet Lxde  Gui")
 os.system ("apt-get dist-upgrade -y --force-yes")
-print "deb http://repo.mate-desktop.org/debian wheezy main" >> /etc/apt/sources.list && os.system("apt-get update")
+os.system (" echo 'deb http://repo.mate-desktop.org/debian wheezy main' >> /etc/apt/sources.list ")
+os.system("apt-get update")
 os.system ("apt-get --yes --quiet --allow-unauthenticated install mate-archive-keyring")
 os.system ("apt-get --yes --force-yes install kali-defaults kali-root-login desktop-base mate-desktop-environment-extra")
 print "[+] Configuring XRDP to listen on port 3390 (but not starting the service)..."
