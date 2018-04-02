@@ -80,8 +80,8 @@ elif choice == "0":
     print "Good Bye :("
     sys.exit()
 else:
-    print "You have Entered an Incorrect Number,Please Select A Good Choice!"
-    main()
+    print "You have Entered an Incorrect Number,Please Restart Program and Select A Good Choice!"
+    sys.exit()
 def Xfce():
     print""
 print "[+] Installing XFCE4, this will take a while"
