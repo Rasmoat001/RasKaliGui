@@ -83,10 +83,10 @@ else:
 def Xfce():
     print""
 print "[+] Installing XFCE4, this will take a while"
-apt-get --yes --force-yes install figlet
-apt-get update
+os.system ("apt-get --yes --force-yes install figlet")
+os.system("apt-get update")
 figlet Xfce Gui
-apt-get dist-upgrade -y --force-yes
+os.system ("apt-get dist-upgrade -y --force-yes")
 apt-get --yes --force-yes install kali-desktop-xfce xorg xrdp
 print "[+] Configuring XRDP to listen on port 3390 (but not starting the service)..."
 sed -i 's/port=3389/port=3390/g' /etc/xrdp/xrdp.ini
@@ -94,22 +94,22 @@ sed -i 's/port=3389/port=3390/g' /etc/xrdp/xrdp.ini
 def Gnome():
     print ""
 print "[+] Installing Gnome, this will take a while!"
-apt-get --yes --force-yes install figlet
-apt-get update
-figlet Gnome Gui
-apt-get dist-upgrade -y --force-yes
-apt-get --yes --force-yes install kde-plasma-desktop xorg xrdp
+os.system ("apt-get --yes --force-yes install figlet")
+os.system("apt-get update")
+os.system ("figlet Gnome Gui")
+os.system ("apt-get dist-upgrade -y --force-yes")
+os.system ("apt-get --yes --force-yes install kde-plasma-desktop xorg xrdp")
 print "[+] Configuring XRDP to listen on port 3390 (but not starting the service)..."
 sed -i 's/port=3389/port=3390/g' /etc/xrdp/xrdp.ini
 
 def Kde():
     print ""
 print "[+] Installing Kde, this will take a while!"
-apt-get --yes --force-yes install figlet
-apt-get update
-figlet Kde Gui
-apt-get dist-upgrade -y --force-yes
-apt-get --yes --force-yes install kde-plasma-desktop xorg xrdp
+os.system ("apt-get --yes --force-yes install figlet")
+os.system("apt-get update")
+os.system ("figlet Kde Gui")
+os.system ("apt-get dist-upgrade -y --force-yes")
+os.system ("apt-get --yes --force-yes install kde-plasma-desktop xorg xrdp")
 print "[+] Configuring XRDP to listen on port 3390 (but not starting the service)..."
 sed -i 's/port=3389/port=3390/g' /etc/xrdp/xrdp.ini
 
@@ -117,34 +117,34 @@ sed -i 's/port=3389/port=3390/g' /etc/xrdp/xrdp.ini
 def Lxde():
     print ""
 print "[+] Installing Lxde, this will take a while!"
-apt-get --yes --force-yes install figlet
-apt-get update
-figlet Lxde  Gui
-apt-get dist-upgrade -y --force-yes
-apt-get --yes --force-yes install lxde-core lxde kali-defaults kali-root-login desktop-base
+os.system ("apt-get --yes --force-yes install figlet")
+os.system("apt-get update")
+os.system ("figlet Lxde  Gui")
+os.system ("apt-get dist-upgrade -y --force-yes")
+os.system ("apt-get --yes --force-yes install lxde-core lxde kali-defaults kali-root-login desktop-base")
 print "[+] Configuring XRDP to listen on port 3390 (but not starting the service)..."
 sed -i 's/port=3389/port=3390/g' /etc/xrdp/xrdp.ini
 
 def Cinnamon():
     print ""
 print "[+] Installing Cinnamon, this will take a while!"
-apt-get --yes --force-yes install figlet
-apt-get update
-figlet Lxde  Gui
-apt-get dist-upgrade -y --force-yes
-apt-get --yes --force-yes install kali-defaults kali-root-login desktop-base cinnamon
+os.system ("apt-get --yes --force-yes install figlet")
+os.system("apt-get update")
+os.system ("figlet Lxde  Gui")
+os.system ("apt-get dist-upgrade -y --force-yes")
+os.system ("apt-get --yes --force-yes install kali-defaults kali-root-login desktop-base cinnamon")
 print "[+] Configuring XRDP to listen on port 3390 (but not starting the service)..."
 sed -i 's/port=3389/port=3390/g' /etc/xrdp/xrdp.ini
 
 def Mate():
     print ""
 print "[+] Installing Mate, this will take a while!"
-apt-get --yes --force-yes install figlet
-apt-get update
-figlet Lxde  Gui
-apt-get dist-upgrade -y --force-yes#
-print "deb http://repo.mate-desktop.org/debian wheezy main" >> /etc/apt/sources.list && apt-get update
-apt-get --yes --quiet --allow-unauthenticated install mate-archive-keyring
-apt-get --yes --force-yes install kali-defaults kali-root-login desktop-base mate-desktop-environment-extra
+os.system ("apt-get --yes --force-yes install figlet")
+os.system("apt-get update")
+os.system ("figlet Lxde  Gui")
+os.system ("apt-get dist-upgrade -y --force-yes")
+print "deb http://repo.mate-desktop.org/debian wheezy main" >> /etc/apt/sources.list && os.system("apt-get update")
+os.system ("apt-get --yes --quiet --allow-unauthenticated install mate-archive-keyring")
+os.system ("apt-get --yes --force-yes install kali-defaults kali-root-login desktop-base mate-desktop-environment-extra")
 print "[+] Configuring XRDP to listen on port 3390 (but not starting the service)..."
 sed -i 's/port=3389/port=3390/g' /etc/xrdp/xrdp.ini
