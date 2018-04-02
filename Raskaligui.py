@@ -85,7 +85,7 @@ def Xfce():
 print "[+] Installing XFCE4, this will take a while"
 os.system ("apt-get --yes --force-yes install figlet")
 os.system("apt-get update")
-figlet Xfce Gui
+os.system ("figlet Xfce Gui")
 os.system ("apt-get dist-upgrade -y --force-yes")
 apt-get --yes --force-yes install kali-desktop-xfce xorg xrdp
 print "[+] Configuring XRDP to listen on port 3390 (but not starting the service)..."
