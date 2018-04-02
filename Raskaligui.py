@@ -23,8 +23,6 @@ from xml.dom import minidom
 from urlparse import urlparse
 from optparse import OptionParser
 from time import gmtime, strftime, sleep
-def main():
-    print " "
 
 print "                                   [------------------------------------]"
 print "                                      Welcome To Kali Gui Installer"
@@ -61,27 +59,6 @@ print "----------------------------------------------------------------"
 print ""
 print "Made By::Rasmoat"
 print ""
-
-choice = raw_input("Type Number :-: ")
-
-if choice == "1":
-    Xfce()
-elif choice == "2":
-    Gnome()
-elif choice == "3":
-    Kde()
-elif choice == "4":
-    Lxde()
-elif choice == "5":
-    Cinnamon()
-elif choice == "6":
-    Mate()
-elif choice == "0":
-    print "Good Bye :("
-    sys.exit()
-else:
-    print "You have Entered an Incorrect Number,Please Restart Program and Select A Good Choice!"
-    sys.exit()
 def Xfce():
     print""
 print "[+] Installing XFCE4, this will take a while"
@@ -151,3 +128,24 @@ os.system ("apt-get --yes --quiet --allow-unauthenticated install mate-archive-k
 os.system ("apt-get --yes --force-yes install kali-defaults kali-root-login desktop-base mate-desktop-environment-extra")
 print "[+] Configuring XRDP to listen on port 3390 (but not starting the service)..."
 os.system ("sed -i 's/port=3389/port=3390/g' /etc/xrdp/xrdp.ini")
+
+choice = raw_input("Type Number :-: ")
+
+if choice == "1":
+    Xfce()
+elif choice == "2":
+    Gnome()
+elif choice == "3":
+    Kde()
+elif choice == "4":
+    Lxde()
+elif choice == "5":
+    Cinnamon()
+elif choice == "6":
+    Mate()
+elif choice == "0":
+    print "Good Bye :("
+    sys.exit()
+else:
+    print "You have Entered an Incorrect Number,Please Restart Program and Select A Good Choice!"
+    sys.exit()
