@@ -23,6 +23,8 @@ from xml.dom import minidom
 from urlparse import urlparse
 from optparse import OptionParser
 from time import gmtime, strftime, sleep
+def main():
+    print " "
 
 print "                                   [------------------------------------]"
 print "                                      Welcome To Kali Gui Installer"
@@ -79,7 +81,7 @@ elif choice == "0":
     sys.exit()
 else:
     print "You have Entered an Incorrect Number,Please Select A Good Choice!"
-    sys.exit()
+    main()
 def Xfce():
     print""
 print "[+] Installing XFCE4, this will take a while"
