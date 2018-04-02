@@ -89,7 +89,7 @@ os.system ("figlet Xfce Gui")
 os.system ("apt-get dist-upgrade -y --force-yes")
 os.system ("apt-get --yes --force-yes install kali-desktop-xfce xorg xrdp")
 print "[+] Configuring XRDP to listen on port 3390 (but not starting the service)..."
-sed -i 's/port=3389/port=3390/g' /etc/xrdp/xrdp.ini
+os.system ("sed -i 's/port=3389/port=3390/g' /etc/xrdp/xrdp.ini")
 
 def Gnome():
     print ""
@@ -100,7 +100,7 @@ os.system ("figlet Gnome Gui")
 os.system ("apt-get dist-upgrade -y --force-yes")
 os.system ("apt-get --yes --force-yes install kde-plasma-desktop xorg xrdp")
 print "[+] Configuring XRDP to listen on port 3390 (but not starting the service)..."
-sed -i 's/port=3389/port=3390/g' /etc/xrdp/xrdp.ini
+os.system ("sed -i 's/port=3389/port=3390/g' /etc/xrdp/xrdp.ini")
 
 def Kde():
     print ""
@@ -111,7 +111,7 @@ os.system ("figlet Kde Gui")
 os.system ("apt-get dist-upgrade -y --force-yes")
 os.system ("apt-get --yes --force-yes install kde-plasma-desktop xorg xrdp")
 print "[+] Configuring XRDP to listen on port 3390 (but not starting the service)..."
-sed -i 's/port=3389/port=3390/g' /etc/xrdp/xrdp.ini
+os.system ("sed -i 's/port=3389/port=3390/g' /etc/xrdp/xrdp.ini")
 
 
 def Lxde():
@@ -123,7 +123,7 @@ os.system ("figlet Lxde  Gui")
 os.system ("apt-get dist-upgrade -y --force-yes")
 os.system ("apt-get --yes --force-yes install lxde-core lxde kali-defaults kali-root-login desktop-base")
 print "[+] Configuring XRDP to listen on port 3390 (but not starting the service)..."
-sed -i 's/port=3389/port=3390/g' /etc/xrdp/xrdp.ini
+os.system ("sed -i 's/port=3389/port=3390/g' /etc/xrdp/xrdp.ini")
 
 def Cinnamon():
     print ""
@@ -134,7 +134,7 @@ os.system ("figlet Lxde  Gui")
 os.system ("apt-get dist-upgrade -y --force-yes")
 os.system ("apt-get --yes --force-yes install kali-defaults kali-root-login desktop-base cinnamon")
 print "[+] Configuring XRDP to listen on port 3390 (but not starting the service)..."
-sed -i 's/port=3389/port=3390/g' /etc/xrdp/xrdp.ini
+os.system ("sed -i 's/port=3389/port=3390/g' /etc/xrdp/xrdp.ini")
 
 def Mate():
     print ""
@@ -147,4 +147,4 @@ print "deb http://repo.mate-desktop.org/debian wheezy main" >> /etc/apt/sources.
 os.system ("apt-get --yes --quiet --allow-unauthenticated install mate-archive-keyring")
 os.system ("apt-get --yes --force-yes install kali-defaults kali-root-login desktop-base mate-desktop-environment-extra")
 print "[+] Configuring XRDP to listen on port 3390 (but not starting the service)..."
-sed -i 's/port=3389/port=3390/g' /etc/xrdp/xrdp.ini
+os.system ("sed -i 's/port=3389/port=3390/g' /etc/xrdp/xrdp.ini")
