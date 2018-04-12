@@ -75,7 +75,9 @@ elif choice == "5":
 elif choice == "6":
     Mate()
 elif choice == "7":
-    update()
+    print "[+] Updating Script, Please Wait!"
+os.system(" git clone https://github.com/Rasmoat001/RasKaliGui.git")
+os.system(" python /root/RasKaliGui/Raskaligui.py")
 elif choice == "0":
     print "Good Bye :("
     sys.exit()
@@ -152,8 +154,3 @@ os.system ("apt-get --yes --force-yes install kali-defaults kali-root-login desk
 print "[+] Configuring XRDP to listen on port 3390 (but not starting the service)..."
 os.system ("sed -i 's/port=3389/port=3390/g' /etc/xrdp/xrdp.ini")
 
-def update():
-    print ""
-print "[+] Updating Script, Please Wait!"
-os.system(" git clone https://github.com/Rasmoat001/RasKaliGui.git")
-os.system(" python /root/RasKaliGui/Raskaligui.py")
