@@ -71,7 +71,7 @@ if choice == "1":
     os.system (" apt-get --yes --force-yes install kali-desktop-xfce xorg xrdp")
     print "[+] Configuring XRDP to listen on port 3390 (but not starting the service)..."
     os.system (" sed -i 's/port=3389/port=3390/g' /etc/xrdp/xrdp.ini")
-    print (" Xfce Gui Succesfully Installed!)
+    print (" Xfce Gui Succesfully Installed!")
     sys.exit()
 elif choice == "2":
     print "[+] Installing Gnome, this will take a while!"
