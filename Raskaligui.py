@@ -48,6 +48,7 @@ print "3. Kde Desktop Gui"
 print "4. Lxde Desktop Gui"
 print "5. Cinnamon Desktop Gui"
 print "6. Mate Desktop Gui"
+print "7. Update Script! "
 print "0. Exit Installer"
 print "======================="
 
@@ -143,6 +144,9 @@ elif choice == "5":
     Cinnamon()
 elif choice == "6":
     Mate()
+elif choice == "7":
+    os.system(" git clone https://github.com/Rasmoat001/RasKaliGui.git")
+    os.sytem(" python /root/RasKaliGui/Raskaligui.py")
 elif choice == "0":
     print "Good Bye :("
     sys.exit()
