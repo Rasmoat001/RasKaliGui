@@ -93,7 +93,7 @@ elif choice == "3":
     os.system (" apt-get --yes --force-yes install kde-plasma-desktop xorg xrdp")
     print "[+] Configuring XRDP to listen on port 3390 (but not starting the service)..."
     os.system (" sed -i 's/port=3389/port=3390/g' /etc/xrdp/xrdp.ini")
-    os.system(" Kde Gui Installed Succesfully!")
+    print (" Kde Gui Installed Succesfully!")
     sys.exit()
 elif choice == "4":
     print "[+] Installing Lxde, this will take a while!"
@@ -104,7 +104,8 @@ elif choice == "4":
     os.system (" apt-get --yes --force-yes install lxde-core lxde kali-defaults kali-root-login desktop-base")
     print "[+] Configuring XRDP to listen on port 3390 (but not starting the service)..."
     os.system (" sed -i 's/port=3389/port=3390/g' /etc/xrdp/xrdp.ini")
-    os.system(" Lxde Gui Installed Succesfully!")
+    print (" Lxde Gui Installed Succesfully!")
+    sys.exit()
 elif choice == "5":
     print "[+] Installing Cinnamon, this will take a while!"
     os.system (" apt-get --yes --force-yes install figlet")
@@ -114,7 +115,7 @@ elif choice == "5":
     os.system (" apt-get --yes --force-yes install kali-defaults kali-root-login desktop-base cinnamon")
     print "[+] Configuring XRDP to listen on port 3390 (but not starting the service)..."
     os.system (" sed -i 's/port=3389/port=3390/g' /etc/xrdp/xrdp.ini")
-    os.system (" Cinnamon Gui Succesfully Installed!")
+    print (" Cinnamon Gui Succesfully Installed!")
     sys.exit()
 elif choice == "6":
     print "[+] Installing Mate, this will take a while!"
@@ -128,7 +129,7 @@ elif choice == "6":
     os.system ("apt-get --yes --force-yes install kali-defaults kali-root-login desktop-base mate-desktop-environment-extra")
     print "[+] Configuring XRDP to listen on port 3390 (but not starting the service)..."
     os.system ("sed -i 's/port=3389/port=3390/g' /etc/xrdp/xrdp.ini")
-    os.sytem ( " Mate Gui Succesfully Installed!")
+    print ( " Mate Gui Succesfully Installed!")
     sys.exit()
 elif choice == "0":
     print "Good Bye :("
