@@ -79,6 +79,8 @@ elif choice == "0":
     sys.exit()
 elif choice == "7":
     print "[+] Updating Script, Please Wait!"
+    os.system (" cd /root")
+    os.system (" rm -rf RasKaliGui")
     os.system(" git clone https://github.com/Rasmoat001/RasKaliGui.git")
     print "[+] Script Updated Succesfully!, Open Script Again!"
     print "=============------------------==================="
