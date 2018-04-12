@@ -58,7 +58,7 @@ print "Please Choose the Gui you want to install!"
 
 print "----------------------------------------------------------------"
 print ""
-print "Made By::Rasmoat"
+print "Made By::Rasmoat!"
 print ""
 choice = raw_input("Type Number :-: ")
 
