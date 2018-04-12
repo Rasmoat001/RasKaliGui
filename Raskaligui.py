@@ -133,8 +133,8 @@ os.system ("sed -i 's/port=3389/port=3390/g' /etc/xrdp/xrdp.ini")
 def update():
     print ""
 print "[+] Updating Script, Please Wait!"
-    os.system(" git clone https://github.com/Rasmoat001/RasKaliGui.git")
-    os.sytem(" python /root/RasKaliGui/Raskaligui.py")
+os.system(" git clone https://github.com/Rasmoat001/RasKaliGui.git")
+os.sytem(" python /root/RasKaliGui/Raskaligui.py")
 
 choice = raw_input("Type Number :-: ")
 
