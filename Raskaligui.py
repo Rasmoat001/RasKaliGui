@@ -110,18 +110,18 @@ def Cinnamon():
 print "[+] Installing Cinnamon, this will take a while!"
 os.system ("apt-get --yes --force-yes install figlet")
 os.system("apt-get update")
-os.system ("figlet Lxde  Gui")
+os.system ("figlet Cinnamon  Gui")
 os.system ("apt-get dist-upgrade -y --force-yes")
 os.system ("apt-get --yes --force-yes install kali-defaults kali-root-login desktop-base cinnamon")
 print "[+] Configuring XRDP to listen on port 3390 (but not starting the service)..."
 os.system ("sed -i 's/port=3389/port=3390/g' /etc/xrdp/xrdp.ini")
 
 def Mate():
-    
+    print ""
 print "[+] Installing Mate, this will take a while!"
 os.system ("apt-get --yes --force-yes install figlet")
 os.system("apt-get update")
-os.system ("figlet Lxde  Gui")
+os.system ("figlet Mate  Gui")
 os.system ("apt-get dist-upgrade -y --force-yes")
 os.system (" echo 'deb http://repo.mate-desktop.org/debian wheezy main' >> /etc/apt/sources.list ")
 os.system("apt-get update")
