@@ -74,13 +74,13 @@ elif choice == "5":
     Cinnamon()
 elif choice == "6":
     Mate()
-elif choice == "7":
-    print "[+] Updating Script, Please Wait!"
-os.system(" git clone https://github.com/Rasmoat001/RasKaliGui.git")
-os.system(" python /root/RasKaliGui/Raskaligui.py")
 elif choice == "0":
     print "Good Bye :("
     sys.exit()
+elif choice == "7":
+    print "[+] Updating Script, Please Wait!"
+    os.system(" git clone https://github.com/Rasmoat001/RasKaliGui.git")
+    os.system(" python /root/RasKaliGui/Raskaligui.py")
 else:
     print "You have Entered an Incorrect Number,Please Restart Program and Select A Good Choice!"
     sys.exit()
