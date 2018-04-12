@@ -41,7 +41,7 @@ print "-------------------------------------------------------------------------
 print "======================="
 print "--------------------------------------------------------------------------------------------------"
 
-print "   Available Guis "
+print "   Available Guis! "
 print "1. Xfce Desktop Gui"
 print "2. Gnome Desktop Gui"
 print "3. Kde Desktop Gui"
