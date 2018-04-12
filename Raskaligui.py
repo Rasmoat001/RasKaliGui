@@ -65,7 +65,14 @@ choice = raw_input("Type Number :-: ")
 if choice == "1":
     Xfce()
 elif choice == "2":
-    Gnome()
+    print "[+] Installing Gnome, this will take a while!"
+    os.system ("apt-get --yes --force-yes install figlet")
+    os.system("apt-get update")
+    os.system ("figlet Gnome Gui")
+    os.system ("apt-get dist-upgrade -y --force-yes")
+    os.system ("apt-get --yes --force-yes install kde-plasma-desktop xorg xrdp")
+    print "[+] Configuring XRDP to listen on port 3390 (but not starting the service)..."
+    os.system ("sed -i 's/port=3389/port=3390/g' /etc/xrdp/xrdp.ini")
 elif choice == "3":
     Kde()
 elif choice == "4":
@@ -79,8 +86,6 @@ elif choice == "0":
     sys.exit()
 elif choice == "7":
     print "[+] Updating Script, Please Wait!"
-    os.system (" cd /root")
-    os.system (" rm -rf RasKaliGui")
     os.system(" git clone https://github.com/Rasmoat001/RasKaliGui.git")
     print "[+] Script Updated Succesfully!, Open Script Again!"
     print "=============------------------==================="
@@ -99,17 +104,7 @@ os.system ("apt-get --yes --force-yes install kali-desktop-xfce xorg xrdp")
 print "[+] Configuring XRDP to listen on port 3390 (but not starting the service)..."
 os.system ("sed -i 's/port=3389/port=3390/g' /etc/xrdp/xrdp.ini")
 
-def Gnome():
-    print ""
-print "[+] Installing Gnome, this will take a while!"
-os.system ("apt-get --yes --force-yes install figlet")
-os.system("apt-get update")
-os.system ("figlet Gnome Gui")
-os.system ("apt-get dist-upgrade -y --force-yes")
-os.system ("apt-get --yes --force-yes install kde-plasma-desktop xorg xrdp")
-print "[+] Configuring XRDP to listen on port 3390 (but not starting the service)..."
-os.system ("sed -i 's/port=3389/port=3390/g' /etc/xrdp/xrdp.ini")
-
+#def Gnome():
 def Kde():
     print ""
 print "[+] Installing Kde, this will take a while!"
