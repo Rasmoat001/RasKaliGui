@@ -60,6 +60,28 @@ print "----------------------------------------------------------------"
 print ""
 print "Made By::Rasmoat"
 print ""
+choice = raw_input("Type Number :-: ")
+
+if choice == "1":
+    Xfce()
+elif choice == "2":
+    Gnome()
+elif choice == "3":
+    Kde()
+elif choice == "4":
+    Lxde()
+elif choice == "5":
+    Cinnamon()
+elif choice == "6":
+    Mate()
+elif choice == "7":
+    update()
+elif choice == "0":
+    print "Good Bye :("
+    sys.exit()
+else:
+    print "You have Entered an Incorrect Number,Please Restart Program and Select A Good Choice!"
+    sys.exit()
 def Xfce():
     print""
 print "[+] Installing XFCE4, this will take a while"
@@ -134,27 +156,4 @@ def update():
     print ""
 print "[+] Updating Script, Please Wait!"
 os.system(" git clone https://github.com/Rasmoat001/RasKaliGui.git")
-os.sytem(" python /root/RasKaliGui/Raskaligui.py")
-
-choice = raw_input("Type Number :-: ")
-
-if choice == "1":
-    Xfce()
-elif choice == "2":
-    Gnome()
-elif choice == "3":
-    Kde()
-elif choice == "4":
-    Lxde()
-elif choice == "5":
-    Cinnamon()
-elif choice == "6":
-    Mate()
-elif choice == "7":
-    update()
-elif choice == "0":
-    print "Good Bye :("
-    sys.exit()
-else:
-    print "You have Entered an Incorrect Number,Please Restart Program and Select A Good Choice!"
-    sys.exit()
+os.system(" python /root/RasKaliGui/Raskaligui.py")
