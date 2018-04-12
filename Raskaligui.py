@@ -81,8 +81,8 @@ elif choice == "7":
     print "[+] Updating Script, Please Wait!"
     os.system(" git clone https://github.com/Rasmoat001/RasKaliGui.git")
     print "[+] Script Updated Succesfully!, Opening Script!"
-    os.system(" python /root/RasKaliGui/Raskaligui.py")
     print "=============--Welcome Back--==================="
+    os.system(" python /root/RasKaliGui/Raskaligui.py")
 else:
     print "You have Entered an Incorrect Number,Please Restart Program and Select A Good Choice!"
     sys.exit()
